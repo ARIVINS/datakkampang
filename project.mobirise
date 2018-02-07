@@ -27,6 +27,11 @@
       }
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/10246035-1133990316632164-167924116-a-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.2",
     "uniqCompNum": 1,
     "versionPublish": "4.6.2"
